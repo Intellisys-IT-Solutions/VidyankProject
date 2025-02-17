@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "git": "^0.1.5"
+    "some-package": "^0.1.5"
+  },
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1"
   }
-}
-{
-"scripts": {
-  "test": "echo \"Running tests...\""
 }
