@@ -3,3 +3,7 @@
     "git": "^0.1.5"
   }
 }
+{
+"scripts": {
+  "test": "echo \"Running tests...\""
+}
